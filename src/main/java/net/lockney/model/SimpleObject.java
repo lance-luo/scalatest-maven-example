@@ -1,10 +1,10 @@
-package net.lockney;
+package net.lockney.model;
 
-public class TestMe {
+public class SimpleObject {
 
     private String aString;
 
-    public TestMe(String theString) {
+    public SimpleObject(String theString) {
         aString = theString;
     }
 
